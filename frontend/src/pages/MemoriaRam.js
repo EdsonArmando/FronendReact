@@ -90,7 +90,7 @@ function MemoriaRam() {
     <>
     <div className="padre"> 
     <div className="test">
-        <h1>Datos Maquina Virtual 2</h1> 
+        <h1>Datos Maquina Virtual 1</h1> 
         <table className="table table-hover">
         <tr>
           <th>Total RAM</th>
@@ -107,7 +107,7 @@ function MemoriaRam() {
       </table>
     </div>
     <div className="test">
-        <h1>Datos Maquina Virtual 1</h1> 
+        <h1>Datos Maquina Virtual 2</h1> 
         <table className="table table-hover">
         <tr>
           <th>Total RAM</th>
